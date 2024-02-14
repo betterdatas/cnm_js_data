@@ -1,0 +1,215 @@
+# Node.js
+node_modules/
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# User-specific files
+npm-debug.log
+yarn-error.log
+*.lock
+*.log
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.sass-cache/
+.cache/
+.project
+.tmproj
+.nuclide/
+*.DS_Store
+
+# Build files
+/dist/
+/build/
+*.min.*
+
+# Logs and databases
+*.log
+*.sqlite
+*.sqlite3
+*.db
+*.json
+
+# OS generated files
+.DS_Store
+ehthumbs.db
+Thumbs.db
+
+# Application specific files
+*.log
+*.pid
+*.seed
+*.pid.lock
+
+# Compiled Python files
+*.pyc
+
+# Compiled Java files
+*.class
+
+# Compiled Ruby files
+*.rbc
+
+# Compiled TypeScript files
+*.tsbuildinfo
+
+# Translations
+*.mo
+
+# Compiled PHP source files
+*.php[345t]
+
+# Compiled C++ files
+*.cpp[oe]
+
+# Compiled Perl files
+*.perl
+
+# Compiled Lua files
+*.lua[co]
+
+# Compiled Erlang files
+*.beam
+
+# Compiled Clojure files
+*.clj[co]
+
+# Compiled Go files
+*.go
+
+# Compiled Rust files
+*.rs
+
+# Compiled D files
+*.d
+
+# Compiled OCaml files
+*.cmi
+*.cmo
+*.cmx
+*.cmxs
+*.cma
+*.cmxa
+*.cmo
+*.cmt
+*.cmti
+*.annot
+*.compiled
+
+# Compiled Haskell files
+*.hi
+*.chi
+
+# Compiled Swift files
+*.swiftmodule
+*.swiftdoc
+*.swiftsourceinfo
+
+# Compiled Objective-C files
+*.hmap
+
+# Compiled MATLAB files
+*.asv
+
+# Compiled R files
+*.Rdata
+
+# Byte-compiled ELisp files
+*.elc
+
+# Compiled Nim files
+*.nimble
+
+# Compiled Fortran files
+*.mod
+*.smod
+
+# Compiled Ada files
+*.ali
+*.o
+*.aliased
+*.trace
+
+# Compiled DART files
+*.dart_tool/
+
+# Compiled Kotlin files
+*.klib
+*.kotlin_module
+
+# Compiled JAR files
+*.jar
+
+# Compiled Java Bytecode
+*.class
+
+# Compiled .NET
+*.dll
+*.exe
+*.pdb
+*.dll.mdb
+
+# Package files
+*.tar
+*.tgz
+*.gz
+*.zip
+*.rar
+*.jar
+*.war
+*.ear
+*.sar
+*.xpi
+*.apk
+*.exe
+*.msi
+*.7z
+*.dmg
+*.iso
+
+# Virtual Machine Image files
+*.vdi
+*.vbox
+*.vbox-prev
+
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+
+# Flask
+instance/
+.webassets-cache
+
+# Scrapy
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+
+# PyInstaller
+dist/
+build/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IPython
+profile_default/
+ipython_config.py
+
+# Pyenv
+.python-version
+
+# pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
